@@ -75,6 +75,7 @@ a {
     overflow: hide;
     overflow: hidden;
     text-overflow: ellipsis;
+    font-family: 'Roboto', sans-serif;
 }
 
 #echargeHeader #echargeLogo {
